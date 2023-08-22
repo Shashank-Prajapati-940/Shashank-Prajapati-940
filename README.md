@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Shashank-Prajapati-940
-- 👀 I’m interested in blockchain app development;
 - 🌱 I’m currently learning web-development 
 - 📫 shashankprajapti940@gmail.com
 
