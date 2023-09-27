@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **react**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" >Connect with me:<a href="https://www.linkedin.com/in/shashank-prajapati-308183289/">Linkdin</a></h3>
 <p align="left">
 </p>
 
